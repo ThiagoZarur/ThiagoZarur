@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Hola! Soy Thiago Zarur 👋
 
-<!--
-**ThiagoZarur/ThiagoZarur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador python jr enfocado en el trading algoritmico/cuantitativo, integrando la ciencia de datos y la inteligencia artificial.
+¡Me gustan los retos y nuevos aprendizajes!
 
-Here are some ideas to get you started:
+##Aquí puedes encontrarme en algunas redes sociales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -Twitter  https://twitter.com/Santiago_FyG
+  -Linkedin https://www.linkedin.com/in/santiago-zar-0952b91b9
+  -Medium https://medium.com/@thiagotrader
+
+##Algunos de mis proyectos que más me gustan
+
+ -Simulación MonteCarlo
+ -Covid impact 
+ -Telegram Bot
+ -Bots de trading
