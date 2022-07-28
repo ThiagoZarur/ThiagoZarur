@@ -16,6 +16,7 @@ Soy un desarrollador python jr enfocado en el trading algoritmico/cuantitativo, 
 - Telegram Bot
 - Bots de trading
 
+
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -35,3 +36,11 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
+              
+              
+              
+              
+              
+              
+              
+              
